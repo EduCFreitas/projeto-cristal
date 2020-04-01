@@ -1,0 +1,37 @@
+{
+  "name": "projeto-cristal",
+  "version": "1.0.0",
+  "description": "Projeto Integrador - Generation - Turma Amarela - Grupo 4",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch assets/css/estilo.scss assets/css/estilo.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduCFreitas/projeto-cristal.git"
+  },
+  "keywords": [
+    "projeto",
+    "integrador",
+    "generation",
+    "cristal",
+    "ossos",
+    "vidro",
+    "moda",
+    "inclusiva"
+  ],
+  "author": "Anne Motta, João Braga, José Eduardo Freitas, Laura Brasileiro, Sollyson Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduCFreitas/projeto-cristal/issues"
+  },
+  "homepage": "https://github.com/EduCFreitas/projeto-cristal#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "node-sass": "^4.13.1",
+    "popper.js": "^1.16.1",
+    "sass": "^1.26.3"
+  }
+}
