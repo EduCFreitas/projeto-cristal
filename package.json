@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/EduCFreitas/projeto-cristal#readme",
   "dependencies": {
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^5.0.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.0",
     "node-sass": "^9.0.0",
